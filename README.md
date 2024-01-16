@@ -7,5 +7,5 @@ The goal is to provide a highly accurate and efficient solution for classifying 
 
 Dataset:- https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product/data
 
-#Object_Detection
+# Object_Detection
 
